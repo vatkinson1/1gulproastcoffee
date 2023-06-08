@@ -1,3 +1,7 @@
+html {
+  box-sizing: border-box;
+}
+
 body {
     background-color: #082B59;
     margin:0;
@@ -41,9 +45,6 @@ body {
     flex-basis:30%;
   }
 
-  html {
-    box-sizing: border-box;
-  }
  
   /* navbar styling */
 
