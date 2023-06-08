@@ -108,7 +108,6 @@ body {
     flex-basis: 73%;
     font-size: 1.3rem;
   }
-
   figure {
     margin: 2rem 0 0 0;
     border-radius: 10px;
@@ -181,13 +180,4 @@ body {
     nav a {
       margin: 0 0 3rem 0;
     }
-    figure {
-    margin: 2rem 0 0 0;
-    border-radius: 10px;
   }
-    figure img {
-    border-radius: 10px;
-    max-width: 110%;
-    flex-basis: 25%;
-  }
-}
