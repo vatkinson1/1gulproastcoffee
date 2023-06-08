@@ -167,6 +167,10 @@ body {
     .card {
       padding: 0 1rem;
     }
+    figure img {
+      max-width: 110%;
+      flex-basis: 25%;
+    }
   }
   @media (max-width: 900px) {
     .logo {
@@ -180,4 +184,10 @@ body {
     nav a {
       margin: 0 0 3rem 0;
     }
-  }
+    figure {
+      width: 100%
+    }
+    figure img {
+      max-width: 100%;
+    }
+    }
