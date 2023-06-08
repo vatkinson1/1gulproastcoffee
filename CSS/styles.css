@@ -188,6 +188,6 @@ body {
       width: 100%
     }
     figure img {
-      max-width: 100%;
-    }
+      max-width: 100%;}
+    img {src:"media/images/gulp-pouring-coffee-vertical.jpg"alt="vertical."}
     }
